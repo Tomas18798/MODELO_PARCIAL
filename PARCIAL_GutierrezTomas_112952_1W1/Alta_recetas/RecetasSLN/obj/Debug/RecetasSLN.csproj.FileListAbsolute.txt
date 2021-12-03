@@ -1,0 +1,30 @@
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe.config
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Frm_Alta.resources
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.exe
+C:\Users\marti\source\repos\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.pdb
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.AssemblyReference.cache
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Frm_Alta.resources
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.GenerateResource.cache
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.CoreCompileInputs.cache
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.exe
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.pdb
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe.config
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe
+C:\Users\tom\source\repos\prog II\PARCIAL\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe.config
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.exe
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\bin\Debug\RecetasSLN.pdb
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.AssemblyReference.cache
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Frm_Alta.resources
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.Properties.Resources.resources
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.GenerateResource.cache
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.csproj.CoreCompileInputs.cache
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.exe
+C:\Users\tom\source\repos\prog II\PARCIAL_GutierrezTomas_112952_1W1\Alta_recetas\RecetasSLN\obj\Debug\RecetasSLN.pdb
