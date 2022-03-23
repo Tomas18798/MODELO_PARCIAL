@@ -1,0 +1,3 @@
+# MODELO_PARCIAL
+
+gfdsgfg
